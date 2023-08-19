@@ -19,7 +19,7 @@ Three distinct Multi-layer Perceptron networks are trained. We elaborate on the 
 
 ### Interpretability Techniques
 
-Two interpretability techniques are utilized to explain the decisions of the best-performing CNN model. We go beyond class examples and refer to additional resources, specifically https://arxiv.org/pdf/2004.14545.pdf.
+Two interpretability techniques are utilized to explain the decisions of the best-performing CNN model. 
 
 ### Transfer Learning
 
