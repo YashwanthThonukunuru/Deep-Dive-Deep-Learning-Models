@@ -6,7 +6,7 @@ In this project, We have explored various deep learning models including Multi-l
 
 ### Dataset Preparation
 
-We begin by loading and preprocessing the [Vehicles-in-accidents(https://github.com/Cogito2012/CarCrashDataset#overview) dataset. Necessary steps such as normalization and channel adjustments are performed to ensure optimal data representation.
+We begin by loading and preprocessing the [Vehicles-in-accidents](https://github.com/Cogito2012/CarCrashDataset#overview) dataset. Necessary steps such as normalization and channel adjustments are performed to ensure optimal data representation.
 
 ### Multi-layer Perceptron Networks
 
